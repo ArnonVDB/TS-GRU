@@ -1,3 +1,6 @@
+
+Overview of the demographic and temporal features. The demographic-type marked in italic was originally a temporal feature, but is moved to the demographic data because of its low variance over time.
+
 | **feature**                       | **type**             | **feature**                             | **type**             |
 |-----------------------------------|----------------------|-----------------------------------------|----------------------|
 | activity / mobility   (jh-hlm)    | time-series          | minute volume alarm - high              | *demographic*        |
