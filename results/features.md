@@ -1,4 +1,4 @@
-| \textbf{feature}                  | \textbf{type}        | \textbf{feature}                        | \textbf{type}        |
+| **feature**                       | **type**             | **feature**                             | **type**             |
 |-----------------------------------|----------------------|-----------------------------------------|----------------------|
 | activity / mobility   (jh-hlm)    | time-series          | minute volume alarm - high              | \textit{demographic} |
 | admission\_location               | demographic          | minute volume alarm - low               | time-series          |
