@@ -1,3 +1,4 @@
+# Demographic and temporal features
 
 Overview of the demographic and temporal features. The demographic-type marked in italic was originally a temporal feature, but is moved to the demographic data because of its low variance over time.
 
